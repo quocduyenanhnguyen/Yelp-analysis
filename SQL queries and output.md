@@ -97,8 +97,7 @@ join cte2 on cte2.business_id = cte.business_id
 #### Output
 ![Screen Shot 2024-06-27 at 4 53 07 PM](https://github.com/quocduyenanhnguyen/Yelp-analysis/assets/92205707/e516a769-3025-4020-a4ce-b99761b34473)
 
-
-## List is not the same. Just because they have received high number of compliments does not mean that same business will receive high number of 5-star review ratings, as we see that there are only 21 businesses with highest tip compliments that have 5-star review rating as well. And there are only 8 businesses out of 21 that are in the top 30 list of businesses with high 5-star review rating and 8 businesses out of 30 of highest 5-star review rating in the top 30 list of businesses with high tip compliments as well.
+-> List is not the same. Just because they have received high number of compliments does not mean that same business will receive high number of 5-star review ratings, as we see that there are only 21 businesses with highest tip compliments that have 5-star review rating as well. And there are only 8 businesses out of 21 that are in the top 30 list of businesses with high 5-star review rating and 8 businesses out of 30 of highest 5-star review rating in the top 30 list of businesses with high tip compliments as well.
 
 ### 4. Number of star review ratings in each star
 ```
