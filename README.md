@@ -9,4 +9,4 @@
 
 - I analyzed Yelp data related to business star ratings, review ratings, any trends/patterns, etc. The files are in JSON format so I used Python to parse them before exporting them to CSV files, and then I loaded the files to MySQL database. 
 - Attached to this repos is my Python scripts to parse JSON files and load CSV files to database, SQL queries and explanation of output.
-- Link to Tableau viz: 
+- Link to Tableau viz: https://public.tableau.com/app/profile/anna.quoc.nguyen/viz/Yelpexploratorydashboard/Dashboard1
